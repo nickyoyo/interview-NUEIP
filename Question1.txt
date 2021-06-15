@@ -1,0 +1,5 @@
+繼承使用的關鍵字為extends
+子類能隨意呼叫父類的屬性和方法
+
+介面使用的關鍵字是implements
+子類一定要使用介面中的abstract method
